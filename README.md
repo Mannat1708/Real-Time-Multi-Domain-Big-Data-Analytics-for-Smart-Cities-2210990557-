@@ -53,17 +53,20 @@ Processing	Apache Spark Structured Streaming
 Storage	Hadoop HDFS, MongoDB
 Machine Learning	Scikit-learn
 Domain	Big Data Analytics, Smart Cities
+
 🚀 Key Contributions
 ✔ Multi-domain data integration architecture
 ✔ Real-time analytics pipeline for smart cities
 ✔ Scalable big data storage and distributed processing
 ✔ Machine learning-based predictive insights
+
 📈 Potential Applications
 Smart traffic monitoring
 Energy consumption forecasting
 Environmental monitoring
 Public safety analytics
 Urban planning and governance
+
 👩‍💻 Author
 
 Mannat
